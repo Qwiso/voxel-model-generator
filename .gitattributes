@@ -1,0 +1,5 @@
+# Text files are stored and checked out with LF endings on every platform.
+* text=auto eol=lf
+
+*.png binary
+*.glb binary

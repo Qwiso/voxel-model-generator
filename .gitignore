@@ -1,0 +1,3 @@
+# What build.py writes without --out.
+models/
+__pycache__/
